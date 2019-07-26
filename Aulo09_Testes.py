@@ -1,0 +1,10 @@
+frase='Elder ama Amanda'
+print(frase[::2])
+print(frase.count('a'))
+print(frase.lower().count('a'))
+print(len(frase))
+print('ama' in frase)
+print(frase.find('ama'))
+frase_dividida = frase.split()
+print(frase_dividida[1])
+print(frase_dividida[1][1])

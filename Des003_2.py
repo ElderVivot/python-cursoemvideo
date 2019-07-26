@@ -1,0 +1,5 @@
+n1 = input('Digite um valor: ')
+print(n1.istitle())
+print(n1.isalpha())
+print(n1.partition('a'))
+print(type(n1))
